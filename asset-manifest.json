@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-tes/static/css/main.bb52640d.css",
+    "main.js": "/mini-tes/static/js/main.25916b28.js",
+    "static/js/787.e99a16c6.chunk.js": "/mini-tes/static/js/787.e99a16c6.chunk.js",
+    "index.html": "/mini-tes/index.html",
+    "main.bb52640d.css.map": "/mini-tes/static/css/main.bb52640d.css.map",
+    "main.25916b28.js.map": "/mini-tes/static/js/main.25916b28.js.map",
+    "787.e99a16c6.chunk.js.map": "/mini-tes/static/js/787.e99a16c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb52640d.css",
+    "static/js/main.25916b28.js"
+  ]
+}
